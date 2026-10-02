@@ -19,8 +19,8 @@ import gal_function from '../img/gallery_function_new.jpg';
 import banner1 from './kovaisWebBanner/1.jpg';
 import banner2 from './kovaisWebBanner/2.jpg';
 import banner3 from './kovaisWebBanner/3.png';
-import banner4 from '../img/banner4.jpg';
-import banner5 from '../img/banner5.jpg';
+import banner4 from '../img/banner4_new.jpg';
+import banner5 from '../img/banner5_new.jpg';
 import banner6 from '../img/banner6.jpg';
 
 import testimonial1 from '../img/testimonial1.png';
